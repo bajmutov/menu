@@ -16,25 +16,6 @@
     <pre>
 <?php
 
-//function menu()
-//{
-//    $mas = array('');
-//    echo '<ol>';
-//    foreach ($mas as $val){
-//    echo '<li><a href="'.$val.'"> Раздел' .$val. '</a></li>';
-//    }
-//    echo '</ol>';
-//    
-//}
-//$a = array ('Раздел 1','Раздел 2','Раздел 3');
-//menu ($a);
-
-//$mas = array('1'=>array('1.1','1.2'),
-//             '2'=>array('2.1','2.2'),
-//             '3'=>array('3.1')
-//            );
-//print_r($mas);
-
 function spisok($m){
 echo '<ul>';
 $m=array();
